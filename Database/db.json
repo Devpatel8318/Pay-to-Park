@@ -78,24 +78,19 @@
       "available": 17,
       "id": 284,
       "customer": [
-        "vatsvv1234@gmail.com",
-        ""
+        "vatsvv1234@gmail.com"
       ],
       "name": [
-        "vatsal",
-        ""
+        "vatsal"
       ],
       "car": [
-        "GJ03VB1425",
-        ""
+        "GJ03VB1425"
       ],
       "status": [
-        1,
         1
       ],
       "slot": [
-        10,
-        17
+        10
       ]
     },
     {
