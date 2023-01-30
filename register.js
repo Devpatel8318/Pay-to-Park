@@ -120,7 +120,7 @@ formEl.addEventListener("submit", (event) => {
 
         });
 
-    openNewURLInTheSameWindow("http://127.0.0.1:5500/Intenship/jsonMate/login.html");
+    openNewURLInTheSameWindow("https://pay-to-park.vercel.app/login.html");
 });
 
 
