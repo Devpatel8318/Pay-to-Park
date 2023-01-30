@@ -187,7 +187,7 @@
                 });
 
 
-            openNewURLInTheSameWindow("https://pay-to-park.vercel.app/register.html/pdf.html");
+            openNewURLInTheSameWindow("https://pay-to-park.vercel.app/pdf.html");
 
 
 
