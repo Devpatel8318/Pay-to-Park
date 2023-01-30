@@ -54,7 +54,7 @@ window.onload = function () {
                             "logged": x.id
                         })
                     }).then(function (data) {
-                        openNewURLInTheSameWindow("http://127.0.0.1:5500/Intenship/jsonMate/dashboard.html");
+                        openNewURLInTheSameWindow("https://pay-to-park.vercel.app/dashboard.html");
                     });
 
 
