@@ -54,7 +54,7 @@ window.onload = function () {
                             "logged": x.id
                         })
                     }).then(function (data) {
-                        openNewURLInTheSameWindow("https://pay-to-park.vercel.app/dashboard.html");
+                        openNewURLInTheSameWindow("https://pay-to-park-74h50bjw0-devpatel8318.vercel.app/dashboard.html");
                     });
 
 
