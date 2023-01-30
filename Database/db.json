@@ -1,0 +1,175 @@
+{
+  "items": [
+    {
+      "id": "61",
+      "name": "Shivam Motors",
+      "mail": "shivammotors@gmail.com",
+      "xcoo": "23.23472493830437",
+      "ycoo": "72.64210893830437",
+      "password": "aaa",
+      "price": "200"
+    },
+    {
+      "id": "284",
+      "name": "Rajni Motors",
+      "mail": "rajni@gmail.com",
+      "xcoo": "23.23872493830437",
+      "ycoo": "72.64310893830437",
+      "password": "aaa",
+      "price": "100"
+    },
+    {
+      "id": "748",
+      "name": "Aaryan Motors",
+      "mail": "aaryan@gmail.com",
+      "xcoo": "23.23972493830437",
+      "ycoo": "72.65110893830437",
+      "password": "aaa",
+      "price": "400"
+    },
+    {
+      "id": "958",
+      "name": "Dharmik Motors",
+      "mail": "dharmik@gmail.com",
+      "xcoo": "23.22772493830437",
+      "ycoo": "72.65010893830437",
+      "password": "aaa",
+      "price": "300"
+    }
+  ],
+  "idd": [
+    {
+      "logged": "748",
+      "id": 1
+    }
+  ],
+  "receipt": [
+    {
+      "id": 1,
+      "name": "deeeeepooo",
+      "email": "deeepa@gmail.com",
+      "car": "GJ18GH4353",
+      "amount": "50",
+      "pname": "Shubh parking",
+      "slot": 99
+    }
+  ],
+  "stock": [
+    {
+      "available": 35,
+      "id": 61,
+      "customer": [
+        "koratdishant536631@gmail.com"
+      ],
+      "name": [
+        "Dishant"
+      ],
+      "car": [
+        "GJ02RT2987"
+      ],
+      "status": [
+        1
+      ],
+      "slot": [
+        15
+      ]
+    },
+    {
+      "available": 17,
+      "id": 284,
+      "customer": [
+        "vatsvv1234@gmail.com",
+        ""
+      ],
+      "name": [
+        "vatsal",
+        ""
+      ],
+      "car": [
+        "GJ03VB1425",
+        ""
+      ],
+      "status": [
+        1,
+        1
+      ],
+      "slot": [
+        10,
+        17
+      ]
+    },
+    {
+      "available": 37,
+      "id": 748,
+      "customer": [
+        "Dhairyalimbachiya1234@gmail.com",
+        "akshitm39@gmail.com",
+        "yashmakadia2002@gmail.com",
+        "anchalpatel2562003@gmail.com",
+        "dhruvipanchal1210@gmail.com"
+      ],
+      "name": [
+        "Dhairya",
+        "Akshit",
+        "Yash",
+        "Anchal",
+        "Dhruvi"
+      ],
+      "car": [
+        "GJ14HL69856",
+        "GJ13GB4525",
+        "GJ14DE7835",
+        "GJ01DE2432",
+        "GH67GT6452"
+      ],
+      "status": [
+        2,
+        2,
+        1,
+        1,
+        1
+      ],
+      "slot": [
+        10,
+        32,
+        39,
+        41,
+        9
+      ]
+    },
+    {
+      "available": 6,
+      "id": 958,
+      "customer": [
+        "dhruvipanchal1210@gmail.com",
+        "devpatelm8318@gmail.com",
+        "anchalpatel2562003@gmail.com",
+        "deepmaheshwari@gmail.com"
+      ],
+      "name": [
+        "Dhruvi",
+        "Dev",
+        "Aanchal",
+        "Deep"
+      ],
+      "car": [
+        "GJ01TY7654ca",
+        "GJ025252",
+        "GJ025257",
+        "GJ025252"
+      ],
+      "status": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "slot": [
+        5,
+        7,
+        10,
+        6
+      ]
+    }
+  ]
+}
